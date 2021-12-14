@@ -1,2 +1,2 @@
 # DeMod-GTAV
-Quickly put together program that I made to ease the pain of constantly removing mods from gtav
+A glorified control click delete quickly built up as a program out of the rage when forgetting what files are suppose to be in the GTAV directory
