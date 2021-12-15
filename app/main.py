@@ -15,7 +15,6 @@ from tkinter import filedialog
 import class_animation
 import class_threadloading
 import mode_edit
-# CHANGELOG - Make update version reflect what was changed:
 
 
 def os_check():
