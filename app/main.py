@@ -150,7 +150,7 @@ def menu1():
 
 server_version = "Unknown"
 server_version_float = "Unknown"
-internal_version_float = "1.6.20"
+internal_version_float = "1.6.21"
 STATUS = '[Network Problem Detected]'
 
 os_check()
