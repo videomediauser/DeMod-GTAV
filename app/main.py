@@ -4,6 +4,7 @@ import tempfile
 import threading
 import yaml
 import urllib.request
+import ssl
 from os import path
 from os import system
 from sys import exit
@@ -41,6 +42,7 @@ def whitelist_length():
 def check_update():
     if os.path.exists(f"{owned_roaming}\\updater.exe"):
         os.remove(f"{owned_roaming}\\updater.exe")
+    ssl._create_default_https_context = ssl._create_unverified_context
     global server_version, server_version_float
     internal_version = internal_version_float.replace(".", "")  # local exe version (x.x.x) turned into (xxx)
     url = "https://private.storage-backup.us-nyc1.upcloudobjects.com/programming/applications/DeModGTA/update/version" \
