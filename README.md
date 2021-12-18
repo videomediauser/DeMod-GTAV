@@ -7,3 +7,4 @@ You can download the executable [here](https://github.com/Trogiken/DeMod-GTAV/re
 ## Developer
 * Commit Info: 
 It will be rare if I allow anyone to merge into the master branch. There are a least a 100 things that need to be changed about this program ranging from imports to variable names; however, this was soley made for the simple action of removing mods from GTAV and not made to be a professional piece of software.
+This is a public repo because it was the easiest way to consitently move the program amoung local machines.
