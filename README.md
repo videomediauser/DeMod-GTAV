@@ -5,4 +5,4 @@ Executable [download](https://github.com/Trogiken/DeMod-GTAV/releases/download/1
 
 
 ## Developer
-Even though there is a large range of problems with this program don't make pull requests. Fork the repository if you wish to improve it.
+Even though there is a wide range of problems with this program, don't make pull requests. Fork the repository if you wish to improve it.
